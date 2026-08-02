@@ -8,13 +8,13 @@ This repo serves as my organized workspace for all course requirements, includin
 - Mini-projects
 - Reflection papers
   
-👤 Student Information
+# 👤 Student Information
 - Name:Acerit,Suzanne P.
 - Course/Section:BSIT/4A
 - Instructor:Torres,Jenkielyn C.
 - School Year: [2026-2027]
 
-📂 Repository Structure
+# 📂 Repository Structure
 cloud-computing-course/
 ├── activities/
 ├── projects/
@@ -22,7 +22,7 @@ cloud-computing-course/
 ├── reflections/
 └── README.md
 
-📖 Key Concepts Covered
+# 📖 Key Concepts Covered
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
 - Deployment Models (Public, Private, Hybrid, Community)
