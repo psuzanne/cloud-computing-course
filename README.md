@@ -9,9 +9,9 @@ This repo serves as my organized workspace for all course requirements, includin
 - Reflection papers
   
 # 👤 Student Information
-- Name:Acerit,Suzanne P.
+- Name:Acerit, Suzanne P.
 - Course/Section:BSIT/4A
-- Instructor:Torres,Jenkielyn C.
+- Instructor:Torres, Jenkielyn C.
 - School Year: [2026-2027]
 
 # 📂 Repository Structure
